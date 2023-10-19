@@ -1,2 +1,2 @@
 # Calculadora
-Atividade era criar uma calculadora com interface, em JAVA.
+A atividade era criar uma calculadora com interface, em JAVA.
